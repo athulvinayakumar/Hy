@@ -6,3 +6,4 @@ function main(){
   return mull;
 } 
 main()
+//console.log(main)
