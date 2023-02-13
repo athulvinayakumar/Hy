@@ -6,4 +6,4 @@ function main(){
   return mull;
 } 
 main()
-console.log(main)
+//console.log(main)
